@@ -1,3 +1,27 @@
-body{
-    background-color: hotpink;
+body {
+    background-color: rgb(99, 157, 161);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(1, 81, 1);
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: cursive;
+    color: rgb(1, 81, 1);
+}
+
+input {
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
